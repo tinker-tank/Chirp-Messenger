@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chirp Share</string>
+    <string name="chirp_app_key">Cdw075UokeqzmijkHMZ29wTlJ</string>
+    <string name="chirp_app_secret">j1P3iD3NBuqnvuqQIPWRzm36NcOz8tFT1bx11A1sIqMkcMQ25O</string>
+    <string name="chirp_info">Tap on a shape to send it from this device to another mobile device via sound!\n\n(try in airplane mode too)</string>
+</resources>

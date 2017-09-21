@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/skalapa/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_5d9aefeb843f4bbc344b945d21696339e6cd5428.jar" />
+    </item>
+    <item
+        jar="/Users/skalapa/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_968b2af05f5a6d872c006c7992be20c38c1650f1.jar" />
+    </item>
+    <item
+        jar="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_6d195b12fc6da17fab46d3dcb8ce5e7a3a966b65.jar" />
+    </item>
+    <item
+        jar="/Users/skalapa/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.48/afa06f539a4026c10b247386312aa67404b80a16/ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/ormlite-android-4.48_f11b8bb890e0fb52eb91f24ab944793191822fa9.jar" />
+    </item>
+    <item
+        jar="/Users/skalapa/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/okio-1.13.0_562ca7b575178ac14042b4d3eea5e197a34b4788.jar" />
+    </item>
+    <item
+        jar="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_e1f43722c10b27caef3549fb4821de53dff79738.jar" />
+    </item>
+    <item
+        jar="/Users/skalapa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_a5b71a4afd2670b73abbb094a3148699e3ed4d68.jar" />
+    </item>
+    <item
+        jar="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/exploded-aar/io.chirp.sdk/chirp-sdk-release/2.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="557f30ef91b9dd05fcc03470174a4079440a134e">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/io.chirp.sdk-chirp-sdk-release-2.5.2_2b744f2128948ab97475f312e14c18d82c5e1ff5.jar" />
+    </item>
+    <item
+        jar="/Users/skalapa/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.3/56498efd17752898cfcc3868c1b6211a07b12b8f/joda-time-2.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/joda-time-2.3_44c95a0f83f0f80fc8f4ce78061622dcda14da14.jar" />
+    </item>
+    <item
+        jar="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_65cec5de479c2a3a0f7253c2d86d9a0c32115ab7.jar" />
+    </item>
+    <item
+        jar="/Users/skalapa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_0b6f9e876b2862402421504d9e58f14f36142b52.jar" />
+    </item>
+    <item
+        jar="/Users/skalapa/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.48/e579bd2905d0399af5029aaaf9817d5fa0ca88a5/ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/ormlite-core-4.48_8aa12932541c3be3040e3d073c969ef58f45e5fd.jar" />
+    </item>
+    <item
+        jar="/Users/skalapa/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/skalapa/Desktop/Arkansas/Tinker/Chirp/Chirp-Android-SDK-2.5.2/Examples/ChirpShare/app/build/intermediates/pre-dexed/debug/gson-2.7_8b8482439b2b4840f445d9c321adb93e9f74ad55.jar" />
+    </item>
+
+</items>
